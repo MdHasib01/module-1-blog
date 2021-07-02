@@ -22,7 +22,6 @@ a{
     background-image: url(../images/hero-img.jpg);
     height: 500px;
     width: 100%;
-    position: relative;
 }
 .nav-items{
     display: flex;
@@ -46,12 +45,6 @@ padding: 10px 0;
     color: white;
     border: 3px solid white;
     display: inline-block;
-    top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-    position: absolutes;
-    
-    
 }
 
 .blog{
